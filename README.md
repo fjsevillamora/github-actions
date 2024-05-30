@@ -1,2 +1,2 @@
 # github-actions
-PoC for Gitub Actions
+PoC for Github Actions
